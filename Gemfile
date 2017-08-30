@@ -16,9 +16,11 @@ gem "blastoise"
 group :development, :test do
   gem "caterpie"
   gem "metapod"
+  gem "butterfree"
 end
 
 group :test do
   gem "weedle"
   gem "kakuna"
+  gem "beedrill"
 end
