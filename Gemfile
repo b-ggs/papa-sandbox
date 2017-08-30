@@ -24,3 +24,5 @@ group :test do
   gem "kakuna"
   gem "beedrill"
 end
+
+gem "pidgeotto"
