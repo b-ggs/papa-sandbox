@@ -22,3 +22,5 @@ group :test do
   gem "weedle"
   gem "kakuna"
 end
+
+gem "pidgeotto"
