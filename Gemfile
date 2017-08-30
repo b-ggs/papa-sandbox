@@ -22,4 +22,5 @@ end
 group :test do
   gem "weedle"
   gem "kakuna"
+  gem "beedrill"
 end
